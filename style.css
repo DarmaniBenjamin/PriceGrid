@@ -33,7 +33,7 @@ main{
     border-radius: 10px 10px 0 0;
     background-color: white;
 }
-.first h2{
+.first h1{
     color: var(--Cyan);
 }
 .first span{
@@ -65,13 +65,16 @@ main{
     width: 155px;
     align-items: center;
     justify-content: space-between;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 .cash span{
     opacity: 55%;
 }
+.cash p{
+    font-size: 32px;
+}
 .second p{
-    margin-top: 20px;
+    margin-top: 15px;
     font-weight: 400;
 }
 .btn{
@@ -80,7 +83,7 @@ main{
     background-color: var(--BrightYellow);
     border-radius: 5px;
     color: white;
-    margin-top: 50px;
+    margin-top: 40px;
     cursor: pointer;
 }
 
